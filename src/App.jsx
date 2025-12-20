@@ -1,14 +1,16 @@
 
 import { Route, Routes } from 'react-router-dom'
+import Footer from './Components/Footer.jsx'
 import './App.css'
 
 function App() {
 
   return (
-    <>
-    <Routes>
+    <> 
+    {/* <Routes> */}
   {/* <Route path='/' element={<Home />} ></Route>/> */}
-    </Routes>
+    {/* </Routes> */}
+    {/* <Footer /> */}
        </>
   )
 }
